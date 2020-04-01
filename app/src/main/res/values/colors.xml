@@ -3,4 +3,9 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="BleuMarine">#171738</color>
+    <color name="BlueGendarme">#004BA8</color>
+    <color name="BlueGrey">#628395</color>
+    <color name="BlueGreyDark">#23395B</color>
+    <color name="BlueClair">#9FBBCC</color>
 </resources>
