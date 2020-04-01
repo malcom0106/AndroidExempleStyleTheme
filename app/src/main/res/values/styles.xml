@@ -8,6 +8,15 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:buttonStyle">@style/Bouton</item>
     </style>
+
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/BlueGendarme</item>
+        <item name="colorPrimaryDark">@color/BlueGreyDark</item>
+        <item name="colorAccent">@color/BlueClair</item>
+        <item name="android:buttonStyle">@style/Bouton</item>
+    </style>
+
     <style name="Bouton" parent="android:Widget.Button">
         <item name="android:background">@color/BlueGrey</item>
         <item name="android:textStyle">bold</item>

@@ -13,17 +13,24 @@
         style="@style/Bouton"
         />
     <TextView
+        android:id="@+id/text1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        style="@style/Titre"
         android:text="Mon Titre"
         />
 
     <TextView
+        android:id="@+id/text2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        style="@style/SousTitre"
         android:text="Mon Sous Titre"
         />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        android:layout_gravity="center" />
 
 </LinearLayout>
